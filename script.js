@@ -7,7 +7,7 @@ const socialData = [
         description: 'Эстетика, сторис, моя идеальная жизнь. Подпишись, пока не поздно.',
         buttonText: 'Перейти',
         url: 'https://www.instagram.com/ammabluebubble',
-        image: '../image/8c724378-70f2-4519-b5e7-ad63bedcef50.jfif'
+        image: '/image/8c724378-70f2-4519-b5e7-ad63bedcef50.jfif'
     },
     {
         id: 'telegram',
@@ -16,7 +16,7 @@ const socialData = [
         description: 'Канал для избранных. Здесь я пишу то, что не вынесут другие соцсети.',
         buttonText: 'Подписаться',
         url: 'https://t.me/dianavonduks',
-        image: '../image/898a4d9c-7a88-4db5-b13a-e08fb5ce1d0d.jfif'
+        image: '/image/898a4d9c-7a88-4db5-b13a-e08fb5ce1d0d.jfif'
     },
     {
         id: 'vk',
@@ -25,14 +25,14 @@ const socialData = [
         description: 'Мой VK — здесь я делюсь мыслями, которые не влезают в другие соцсети.',
         buttonText: 'Перейти',
         url: 'https://vk.com/ammabluebubble',
-        image: '../image/16399782-8ae1-4c45-92c3-c4936baf2dfa.jfif'
+        image: '/image/16399782-8ae1-4c45-92c3-c4936baf2dfa.jfif'
     }
 ];
 
 // ——— ГАЛЕРЕЯ ФОТО ———
 const galleryPhotos = [
-    { src: '../image/bb2a122a-43e4-496f-8adb-0f067f1facec.jfif', caption: 'Момент величия' },
-    { src: '../image/c25533e8-fd18-4e2b-bfd9-76366acf5eae.jfif', caption: 'Пик эволюции' }
+    { src: '/image/bb2a122a-43e4-496f-8adb-0f067f1facec.jfif', caption: 'Момент величия' },
+    { src: '/image/c25533e8-fd18-4e2b-bfd9-76366acf5eae.jfif', caption: 'Пик эволюции' }
 ];
 
 // ——— ОТКРЫТИЕ ССЫЛКИ ———
